@@ -37,6 +37,8 @@ Analyzed trends in delivery time and delays
 
 Created Excel visualizations to highlight key insights
 
+Used SQL to aggregate delivery time and delay metrics by route and delivery status.
+
 Key Insights
 
 Some routes consistently showed longer delivery times
