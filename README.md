@@ -9,6 +9,8 @@ This project is inspired by real-world operational workflows involving delivery 
 
 Data
 
+The dataset is simulated to reflect realistic operational delivery patterns.
+
 Simulated delivery route dataset including:
 
 Route ID
