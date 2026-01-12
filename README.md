@@ -43,6 +43,8 @@ Used SQL to aggregate delivery time and delay metrics by route and delivery stat
 
 Key Insights
 
+Excel charts were created to visualize average delivery time by route and the proportion of delayed vs on-time deliveries.
+
 Some routes consistently showed longer delivery times
 
 Delays occurred more frequently on high-distance routes
