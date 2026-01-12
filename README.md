@@ -51,6 +51,12 @@ Delays occurred more frequently on high-distance routes
 
 Route reassignment could improve overall efficiency
 
+Visualizations
+
+![Average Delivery Time by Route](screenshots/avg_delivery_time_by_route.png)
+
+![Delayed vs On-Time Deliveries](screenshots/delayed_vs_ontime.png)
+
 What I Learned
 
 How to structure a simple data analysis project
